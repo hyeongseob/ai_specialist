@@ -1,0 +1,17 @@
+.idea
+.pyc
+classes
+datas/
+models/
+outputs/
+.venv/
+.ipynb_checkpoints/
+__pycache__
+.env
+.DS_Store
+unsloth_compiled_cache
+logs/
+.codex_tmp_libs
+docs
+.tmp_reasoning_repo
+.tmp_tests
