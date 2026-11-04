@@ -4,3 +4,4 @@ __pycache__/
 .env
 datas/the-verdict.txt
 2. 비전 모델 이해/data/
+outputs/*.pth
