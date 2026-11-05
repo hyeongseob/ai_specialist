@@ -1,8 +1,21 @@
+# 가상환경 / 비밀값
 .venv/
-.ipynb_checkpoints/
-__pycache__/
 .env
-datas/the-verdict.txt
-2_비전_모델_이해_및_활용/data/
-*.pth
+
+# Python / Jupyter 캐시
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# 에디터 / OS
+.idea/
+.DS_Store
+Thumbs.db
+
+# 데이터 / 모델 가중치 / 학습 결과 (다운로드하거나 노트북 실행으로 다시 만들 수 있는 것)
+data/
+datas/
+models/
 outputs/
+logs/
+*.pth
