@@ -3,6 +3,6 @@
 __pycache__/
 .env
 datas/the-verdict.txt
-2. 비전 모델 이해/data/
+2_비전_모델_이해_및_활용/data/
 *.pth
 outputs/
